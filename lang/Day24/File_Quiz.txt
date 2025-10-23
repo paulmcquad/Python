@@ -1,0 +1,16 @@
+Question 1:
+If you are writing code inside the main.py file to open the quiz.txt what would be the relative file path?
+Answer: 3
+"quiz.txt"
+
+
+Question 2:
+When writing Python code, what is the absolute path to get to quiz.txt?
+Answer: 2
+open("/Users/my_project/quiz.txt")
+
+
+Question 3:
+If you are writing code inside main.py, what is the relative file path to open quiz.txt?
+Answer: 5
+open("../my_files/quiz_files/quiz.txt")
